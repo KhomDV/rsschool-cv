@@ -23,5 +23,6 @@ function squareDigits(num) {
 	return cResult;
 }
 ```
-
-
+## Experience
+These are my first steps as a front-end developer.
+Over time, I will make links to my work.
