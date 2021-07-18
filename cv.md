@@ -11,5 +11,17 @@ I like what I do. And now I think that this is a good opportunity to learn a lot
 * JavaScript
 * TypeScript
 * Git
+## Example code
+```
+function squareDigits(num) {
+	let cResult = "";
+	let aNum = String(num).split("");
+	for (let i = 0; i < aNum.length; i++) {
+		cResult = cResult + String(aNum[i] * aNum[i]);
+	}
+	cResult = Number(cResult);
+	return cResult;
+}
+```
 
 
