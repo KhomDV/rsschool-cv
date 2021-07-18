@@ -28,4 +28,5 @@ These are my first steps as a front-end developer.
 Over time, I will make links to my work.
 ## Education
 July - August 2021, courses JS/FE 2021Q3 Pre-School in RS School.
-
+## English
+A1 (Elementary English)
